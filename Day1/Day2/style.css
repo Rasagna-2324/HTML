@@ -1,0 +1,12 @@
+h1 {
+    color:green;
+}
+.para{
+    border : 5px solid black;
+
+
+    padding:30px;
+    margin:30px;
+    width:50%;
+    text-align: justify;
+}
